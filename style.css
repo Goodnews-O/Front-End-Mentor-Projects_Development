@@ -118,6 +118,15 @@ nav {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   width: 105%;
 }
+.bottom-row-sec1 {
+  line-height: 35px;
+}
+.bottom-row-sec2 {
+  line-height: 35px;
+}
+.bottom-row-sec3 {
+  line-height: 35px;
+}
 .bx1 {
   max-width: 33.3%;
   display: flex;
@@ -137,7 +146,7 @@ nav {
 .bx1 img {
   width: 8rem;
   height: 12rem;
-  margin-right: 15px;
+  margin-right: 20px;
 }
 .bx1 h1 {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
@@ -151,13 +160,14 @@ nav {
 }
 .bx1 h3 {
   font-family: sans-serif;
-  font-size: 11px;
+  font-size: 0.8rem;
   color: #8e8c8f;
 }
 .bx2 img {
   width: 8rem;
   height: 12rem;
-  margin-right: 15px;
+  margin-right: 20px;
+  margin-left: 20px;
 }
 .bx2 h1 {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
@@ -171,13 +181,14 @@ nav {
 }
 .bx2 h3 {
   font-family: sans-serif;
-  font-size: 11px;
   color: #8e8c8f;
+  font-size: 0.8rem;
 }
 .bx3 img {
   width: 8rem;
   height: 12rem;
-  margin-right: 15px;
+  margin-right: 20px;
+  margin-left: 26px;
 }
 .bx3 h1 {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
@@ -191,6 +202,6 @@ nav {
 }
 .bx3 h3 {
   font-family: sans-serif;
-  font-size: 11px;
   color: #8e8c8f;
+  font-size: 0.8rem;
 }
